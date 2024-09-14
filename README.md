@@ -1,3 +1,7 @@
+增加让AI生成可以将API链接内IP部署并自动解析到Cloudflare Worker的自定义subdomain并自动更新。（代码直接问AI,测试完全无需人工修改代码）
+
+
+
 # IPDB API
 
 <details>
